@@ -1,7 +1,9 @@
-Hi, I'm @juandzip or Juan Daza 👋
+Hi, I'm @juandzip (Juan David Daza Flórez) Juanda for friends 👋
 
-I'm a mechatronic engineer 🦾 from Colombia 🌎
+I'm a mechatronic engineer with master's degree in project management 🦾
 
-I have been working on hardware development since 2021 💻
+I'm from Colombia 🌎
 
-Now I want to learn and be a Data Scientist 📚🤓
+I have been working on hardware development since 2021 💻,  I have had experience on mechanical design (solidworks), electronic design (KiCAD), and embedded software develop for IoT solutions 💡
+
+Now I'm learning to be Data Scientist & Developer 📚🤓
