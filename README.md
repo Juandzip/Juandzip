@@ -1,4 +1,4 @@
-Hi, I'm @juandzip (Juan David Daza Flórez) Juanda for friends 👋
+Hi, I'm Juan David Daza Flórez, Juanda for friends 👋
 
 I'm a mechatronic engineer with master's degree in project management 🦾
 
