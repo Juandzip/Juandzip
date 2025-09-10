@@ -1,7 +1,5 @@
-Hi, I'm Juan David Daza Flórez, Juanda for friends 👋
+I’m a mechatronics engineer and hold a Master’s degree in Project Management, with more than 5 years of hands-on experience in mechanical design, electronics, and rapid prototyping. I love learning and turning real-world problems into tangible, testable solutions.
 
-I'm a mechatronic engineer with master's degree in project management 🦾
+As co-founder and Director at Creatio et Innovatio SAS, I lead applied research & development and innovation projects that combine additive manufacturing, CAD (SolidWorks), electronic design (KiCad) and embedded software.
 
-I'm from Colombia 🌎
-
-I have been working on hardware development since 2021 💻,  I have had experience on mechanical design (solidworks), electronic design (KiCAD), and embedded software develop for IoT solutions 💡
+On this GitHub I publish reproducible, production-oriented projects and tools: CAD models, KiCad schematics, firmware examples, data-analysis notebooks, and prototyping utilities. If you’re interested in collaborating on R&D, medical device development, or PCB prototyping, let’s connect: https://linktr.ee/dazajuan
